@@ -4,4 +4,5 @@ GZIP output Stream for writing compress data.
 GZIP input Stream for  decompressing data.
 
 # Screenshots
-![maze](https://user-images.githubusercontent.com/109513537/229720331-d641e730-4fb1-4c16-8f83-6899a55be9b8.png)
+
+![cmpress](https://user-images.githubusercontent.com/109513537/229727516-295c3a96-ca16-4e97-b38d-a626cdc57472.png)
